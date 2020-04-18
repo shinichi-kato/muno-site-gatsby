@@ -2,4 +2,5 @@
 title: author
 ---
 
-**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus.
+**加藤真一 Ph.D.** 高校時代にPC-9801上で動く人工無脳に出会い、面白さとともに限界を感じる。大学時代に「人工無脳は考える」を立ち上げ考察を試みるもほとんどなすすべなし。 その後、40代ごろから人の深層心理やカウンセリング技法を学ぶ機会を得る。さらに様々な人間関係を見つめなおす経験を経て、すべては人工無脳研究の糧であったと考えるようになる。大学では化学・無機材料系を専攻し博士号を取得。現在株式会社村田製作所勤務。
+業務は人工無脳と全く関係なかったが、最近はそうでもない。 

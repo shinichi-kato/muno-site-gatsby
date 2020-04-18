@@ -54,12 +54,12 @@ color:
       k: '#2b2826'
     black: '#000000'
   brand:
-    primary: &color-brand-primary '#709425'
-    primaryActive: '#709425'
-    light: '#709425'
-    lightActive: '#709425'
-    dark: '#709425'
-    darkActive: '#709425'
+    primary: &color-brand-primary '#e39102'
+    primaryActive: '#e39102'
+    light: '#e39102'
+    lightActive: '#e39102'
+    dark: '#e39102'
+    darkActive: '#e39102'
   special:
     attention: &color-special-attention orange
 # FONT
@@ -67,7 +67,7 @@ font:
   # font options
   family:
     initial: 'Arial, sans-serif'
-    target: &font-family-target 'Open Sans'
+    target: &font-family-target "'Noto Sans JP','源ノ角ゴシック','Arial', 'sans-serif'"
   weight:
     standard: 400
     bold: 600
@@ -134,7 +134,7 @@ icon:
 hero:
   h1:
     size: *font-size-xxl
-    color: *color-white
+    color: *color-gray-10
     lineHeight: *font-line-height-xs
   background: 'linear-gradient(0deg, #E0306E, #6438B5)'
 blog:

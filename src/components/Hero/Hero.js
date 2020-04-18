@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { FaArrowDown } from "react-icons/fa/";
+import { FaAngleDown } from "react-icons/fa/";
 
 const Hero = props => {
   const { scrollToContent, backgrounds, theme } = props;
@@ -10,10 +10,10 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          This is a demo site of&nbsp;the <strong>heroBlog</strong> GatsbyJS starter
+          人工無脳は考える
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
-          <FaArrowDown />
+          <FaAngleDown />
         </button>
       </section>
 
@@ -24,7 +24,8 @@ const Hero = props => {
           background: ${theme.hero.background};
           background-image: url(${backgrounds.mobile});
           background-size: cover;
-          color: ${theme.text.color.primary.inverse};
+          background-position: center top;
+          color: ${theme.text.color.primary};
           display: flex;
           flex-flow: column nowrap;
           justify-content: center;

@@ -2,9 +2,6 @@
 title: footnote
 ---
 
-* it's a demo site of the [gatsby-starter-hero-blog](https://github.com/greglobinski/gatsby-starter-hero-blog)
-* built by [greg lobinski](https://www.greglobinski.com)
-* Check [Front-end web development with Greg](https://dev.greglobinski.com)
-* delivered by [Netlify](https://www.netlify.com/)
-* photos by [unsplash.com](https://unsplash.com)
-* graphic by [pixabay.com](https://pixabay.com)
+* copyright(c) 1999-2020 加藤真一
+* built by [shinichi-kato](https://github.com/shinichi-kato)
+* powered by [gatsby](https://www.gatsbyjs.org/)

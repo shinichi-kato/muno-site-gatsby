@@ -1,26 +1,26 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "人工無脳は考える - 雑談チャットボット研究＆考察サイト", // <title>
+  shortSiteTitle: "人工無能は考える", // <title> ending for posts and pages
+  siteDescription: "雑談チャットボットの研究と考察",
+  siteUrl: "http://www.ycf.nanet.co.jp/~skato/muno",
   // pathPrefix: "",
-  siteImage: "preview.jpg",
-  siteLanguage: "en",
+  // siteImage: "preview.jpg",
+  siteLanguage: "jp",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "加藤真一",
+  // authorTwitterAccount: "greglobinski",
 
   /* info */
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "加藤真一",
+  headerSubTitle: "チャットボット研究者",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
-  manifestStartUrl: "/index.html",
+  manifestName: "人工無能は考える",
+  manifestShortName: "muno", // max 12 characters
+  manifestStartUrl: "/index.shtml",
   manifestBackgroundColor: "white",
-  manifestThemeColor: "#666",
+  manifestThemeColor: "#e39102",
   manifestDisplay: "standalone",
 
   // gravatar
@@ -32,8 +32,7 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/shinichi-kato" },
+    { name: "facebook", url: "https://www.facebook.com/profile.php?id=100004196101817" }
   ]
 };
