@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { FaAngleDown } from "react-icons/fa/";
+import { FaChevronDown } from "react-icons/fa/";
 
 const Hero = props => {
   const { scrollToContent, backgrounds, theme } = props;
@@ -13,7 +13,7 @@ const Hero = props => {
           人工無脳は考える
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
-          <FaAngleDown />
+          <FaChevronDown />
         </button>
       </section>
 

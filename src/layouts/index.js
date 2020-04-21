@@ -170,6 +170,18 @@ class Layout extends React.Component {
                         width: auto;
                         display: block;
                       }
+                      table {
+                        border-collapse: collapse;
+                        margin: 1.2em auto;
+                      }
+                      td {
+                        border-bottom: 1px solid #ccc;
+                        padding: 0.8em 1.5em;
+                      }
+                      th {
+                        padding: 0.8em 1.5em;
+                        background-color: #ccc;
+                      }
                     `}</style>
                   </React.Fragment>
                 </ScreenWidthContext.Provider>

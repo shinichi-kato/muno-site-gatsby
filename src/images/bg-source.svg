@@ -668,15 +668,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="296.06739"
-     inkscape:cy="89.543605"
+     inkscape:cy="169.54361"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1723"
-     inkscape:window-height="986"
-     inkscape:window-x="181"
-     inkscape:window-y="42"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -685,7 +685,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2051,5 +2051,16 @@
          x="99.317375"
          y="92.304588"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter';fill:#000000;fill-opacity:0.59876541;stroke-width:0.06455699">Fear</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="94.325279"
+       y="103.67747"
+       id="text1094"><tspan
+         sodipodi:role="line"
+         id="tspan1092"
+         x="94.325279"
+         y="103.67747"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter';stroke-width:0.26458332">since 1999</tspan></text>
   </g>
 </svg>
