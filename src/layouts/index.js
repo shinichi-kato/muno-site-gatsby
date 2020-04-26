@@ -172,7 +172,7 @@ class Layout extends React.Component {
                       }
                       table {
                         border-collapse: collapse;
-                        margin: 1.2em auto;
+                        margin: 2em auto;
                       }
                       td {
                         border-bottom: 1px solid #ccc;
@@ -181,6 +181,17 @@ class Layout extends React.Component {
                       th {
                         padding: 0.8em 1.5em;
                         background-color: #ccc;
+                      }
+                      blockquote {
+                        background-color: ${this.state.theme.background.color.alt};
+                        padding: 1em;
+                        margin: 1em 0;
+                        border-left-color: ${this.state.theme.background.color.brand};
+                        border-left-style: solid;
+                        border-left-width: 4;
+                      }
+                      ul,ol {
+                        padding-left: 2em;
                       }
                     `}</style>
                   </React.Fragment>

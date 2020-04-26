@@ -1,4 +1,5 @@
 import React from "react";
+import {withPrefix} from "gatsby";
 import PropTypes from "prop-types";
 
 import { FaChevronDown } from "react-icons/fa/";
@@ -22,7 +23,7 @@ const Hero = props => {
         .hero {
           align-items: center;
           background: ${theme.hero.background};
-          background-image: url(${backgrounds.mobile});
+          background-image: url(${withPrefix(backgrounds.mobile)});
           background-size: cover;
           background-position: center top;
           color: ${theme.text.color.primary};
@@ -101,7 +102,7 @@ const Hero = props => {
 
         @from-width tablet {
           .hero {
-            background-image: url(${backgrounds.tablet});
+            background-image: url(${withPrefix(backgrounds.tablet)});
           }
 
           h1 {
@@ -116,7 +117,7 @@ const Hero = props => {
 
         @from-width desktop {
           .hero {
-            background-image: url(${backgrounds.desktop});
+            background-image: url(${withPrefix(backgrounds.desktop)});
           }
 
           h1 {

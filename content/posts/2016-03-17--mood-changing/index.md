@@ -4,7 +4,6 @@ category: "心のモデル"
 cover: basic_muno.png
 author: 加藤真一
 ---
-
 ## 辞書型チャットボット
 前回、plutchikの感情と行動のモデルを雑談にあてはめようとすると
 
