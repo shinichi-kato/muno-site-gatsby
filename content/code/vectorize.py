@@ -17,15 +17,23 @@ stop_words=['、','。','が','し','て','で','と','に','の']
     
 def tokenize(doc):
     doc = nagisa.tagging(doc)
-    print(doc)
     return doc.words
 
     
 vectorizer = CountVectorizer(tokenizer=tokenize,stop_words=stop_words)
 matrix = vectorizer.fit_transform(texts)
 
-df = pd.DataFrame(matrix.toarray(),
-                        columns=vectorizer.get_feature_names())
+
+# from sklearn.metrics.pairwise import cosine_similarity
+# from sklearn.preprocessing import MinMaxScaler
+# scaler = MinMaxScaler()
+
+# matrix = scaler.fit_transform(matrix.todense())
+
+# result = cosine_similarity(matrix[0],matrix[1:])
+# print(result)
+df = pd.DataFrame(matrix.toarray())
+                        
 
 print(df)
 print(vectorizer.get_feature_names())
