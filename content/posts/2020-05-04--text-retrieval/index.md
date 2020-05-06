@@ -1,5 +1,5 @@
 ---
-title: 似たテキストを探す - Text Retrieval技術
+title: 似たテキストを探す(1) - Text Retrieval技術
 category: "人工知能技術"
 cover: tiles.jpg
 author: 加藤真一

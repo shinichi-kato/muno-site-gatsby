@@ -1,5 +1,5 @@
 ---
-title: ユーザはなぜ飽きるのか(2002年)
+title: ユーザはなぜ飽きるのか
 category: "アーカイブ"
 cover: relchart.png
 author: 加藤真一

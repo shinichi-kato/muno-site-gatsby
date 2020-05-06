@@ -1,5 +1,5 @@
 ---
-title: 人工知能から人工無脳へ(1999年)
+title: 人工知能から人工無脳へ
 category: "アーカイブ"
 cover: image0.jpg
 author: 加藤真一

@@ -1,5 +1,5 @@
 ---
-title: Eliza(2001年)
+title: Eliza
 category: "アーカイブ"
 
 cover: eliza.png
