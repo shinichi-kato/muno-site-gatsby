@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: "人工無脳は考える - 雑談チャットボット研究＆考察サイト", // <title>
-  shortSiteTitle: "人工無能は考える", // <title> ending for posts and pages
+  shortSiteTitle: "人工無脳は考える", // <title> ending for posts and pages
   siteDescription: "雑談チャットボットの研究と考察",
   siteUrl: "http://www.ycf.nanet.co.jp",
   pathPrefix: "/~skato/muno",
@@ -16,7 +16,7 @@ module.exports = {
   headerSubTitle: "雑談チャットボット研究者",
 
   /* manifest.json */
-  manifestName: "人工無能は考える",
+  manifestName: "人工無脳は考える",
   manifestShortName: "muno", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",

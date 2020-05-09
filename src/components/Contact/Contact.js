@@ -58,7 +58,8 @@ const Contact = props => {
       <ThemeContext.Consumer>
         {theme => (
           <div className="form">
-            <Form
+            
+            {/* <Form
               name="contact"
               onSubmit={handleSubmit}
               data-netlify="true"
@@ -99,7 +100,7 @@ const Contact = props => {
                   Submit
                 </Button>
               </FormItem>
-            </Form>
+            </Form> */}
 
             {/* --- STYLES --- */}
             <style jsx>{`

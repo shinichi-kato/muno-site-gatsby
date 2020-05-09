@@ -13,6 +13,7 @@ const ContactPage = props => {
       site: {
         siteMetadata: { facebook }
       }
+      
     }
   } = props;
 
@@ -21,10 +22,19 @@ const ContactPage = props => {
       <ThemeContext.Consumer>
         {theme => (
           <Article theme={theme}>
-            <header>
+            <iframe 
+              src="https://docs.google.com/forms/d/e/1FAIpQLSfI3K0z82W4_pyqaRP36zaVn4zrwTF74xb4jEV8QvV7HsW5MQ/viewform?embedded=true" 
+              width="640" 
+              height="940" 
+              frameborder="0" 
+              marginheight="0" 
+              marginwidth="0"
+              scrolling="no"
+              >読み込んでいます…</iframe>
+            {/* <header>
               <Headline title="Contact" theme={theme} />
             </header>
-            <Contact theme={theme} />
+            <Contact theme={theme} /> */}
           </Article>
         )}
       </ThemeContext.Consumer>
