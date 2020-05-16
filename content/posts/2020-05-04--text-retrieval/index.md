@@ -1,6 +1,6 @@
 ---
 title: 似たテキストを探す(1) - Text Retrieval技術
-category: "人工知能技術"
+category: "*webアプリ開発者向け* チャットボットの実装"
 cover: tiles.jpg
 author: 加藤真一
 ---

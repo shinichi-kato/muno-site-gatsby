@@ -1,6 +1,6 @@
 ---
 title: チャットボットのインストール 
-category: "おはなしロボットプロジェクト"
+category: "*webアプリ開発者向け* チャットボットの実装"
 cover: fairylab.png
 author: 加藤真一
 ---
