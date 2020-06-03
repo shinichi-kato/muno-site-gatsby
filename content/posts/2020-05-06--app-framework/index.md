@@ -1,6 +1,6 @@
 ---
 title: チャットボットアプリの開発環境を作る
-category: "おはなしロボットプロジェクト"
+category: "*webアプリ開発者向け* チャットボットの実装"
 cover: block-diagram.png
 author: 加藤真一
 ---
